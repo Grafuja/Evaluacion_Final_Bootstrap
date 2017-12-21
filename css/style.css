@@ -1,0 +1,25 @@
+.logo {
+  max-height: 150px;
+}
+.img-social {
+  max-height: 50px;
+}
+.head2{
+  min-width: 550px;
+  background-color: #ee7900;
+}
+.img-persona{
+  max-height: 40px;
+}
+.avatar{
+  height: 200px;
+  margin: 5px;
+  padding: 5px;
+}
+#headdiv{
+  height: auto;
+}
+#headdiv2{
+  height: auto;
+}
+.navbar-toggle .icon-bar{ background-color: black;}
